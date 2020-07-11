@@ -30,6 +30,7 @@
   /* 50,200 */
   height: 12%; 
   width: 12%;
+  max-width: 150px;
   /* object-fit: contain; */
 }
 

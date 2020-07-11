@@ -289,7 +289,7 @@ function InstaClone() {
 
                     <div className="app__postsRight">
                         
-
+                    {/* url='https://instagram.com/p/B_uf9dmAGPw' */}
                         <InstagramEmbed
                         url='https://instagram.com/p/B_uf9dmAGPw'
                         maxWidth={320}
